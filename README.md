@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mormidon
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in learning stuff
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on anywhere/anytime
