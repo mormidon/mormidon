@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 💞️ I’m looking to collaborate on anywhere/anytime
-- 📫 How to reach me anorman@catalyte.io
+- 📫 How to reach me?
 
 <!---
 mormidon/mormidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
