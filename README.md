@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex
-- 💞️ I’m looking to collaborate on anywhere/anytime
-- 📫 How to reach me?
+- 💞️ I’m looking
 
 <!---
 mormidon/mormidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
